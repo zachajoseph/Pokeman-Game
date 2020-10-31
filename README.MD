@@ -1,4 +1,4 @@
-Goals and Resources
+Goals and Resources for Zach Joseph for week 8
 
 During this week, My goals for this week were:
 
@@ -20,3 +20,14 @@ Here are Repl examples I have forked and played around with:
 
 TKtinker
 https://repl.it/@zachajoseph/Tkinter-example-GUI#main.py
+
+TkTinker GUI builder
+http://www.python-gui-builder.com/
+https://techsore.com/best-python-gui/
+
+PYgame
+https://repl.it/@zachajoseph/PYgame-example-GUI
+
+REMI 
+https://repl.it/@zachajoseph/tictactoe-1#main.py
+
