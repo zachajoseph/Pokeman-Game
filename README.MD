@@ -12,9 +12,9 @@ I was able to complete my first goal as listed in the repl above utilizing the t
   
 Then I started researching different gui types that were compatible with repl.it and I found some examples that I may or may not use.
 The different libraries I am researching and evaluating are:
-*REMI
-*TKTinker
-*PYgame
+-REMI
+-TKTinker
+-PYgame
 
 Here are Repl examples I have forked and played around with:
 
