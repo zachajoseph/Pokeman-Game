@@ -28,9 +28,17 @@ if __name__ == '__main__':
     Starmie = Pokemon('Starmie', 'Water', ['Bubblebeam', 'Water Gun', 'Headbutt', 'Surf'],{'ATTACK': 5, 'DEFENSE':5})
     Exeggutor = Pokemon('Exeggutor\t', 'Grass', ['Vine Wip', 'Razor Leaf', 'Bullet Seed', 'Leech Seed'],{'ATTACK':4, 'DEFENSE':6})
 
-     Kangaskhan = Pokemon('Kangaskhan', 'Normal', ['Pound', 'Bite', 'Stomp', 'Headbutt'],{'ATTACK':6, 'DEFENSE':7})
+     Kangaskhan = Pokemon('Kangaskhan', 'Normal', ['Pound', 'Bite', 'Stomp', 'Headbutt'],{'ATTACK':4, 'DEFENSE':9})
     Snorlax = Pokemon('Snorlax', 'Normal', ['Covet', 'Last Resort', 'Lick', 'Tackle'],{'ATTACK': 8, 'DEFENSE':5})
-    Porygon = Pokemon('Porygon\t', 'Normal', ['Zap Cannon', 'Thunder Shock', 'Psybeam', 'Discharge'],{'ATTACK':4, 'DEFENSE':9})
+    Porygon = Pokemon('Porygon\t', 'Normal', ['Zap Cannon', 'Thunder Shock', 'Psybeam', 'Discharge'],{'ATTACK':6, 'DEFENSE':7})
+
+     Vulpix = Pokemon('Vulpix', 'Fire', ['Ember', 'Incinerate', 'Extrasensory', 'Flamethrower'],{'ATTACK':4, 'DEFENSE':3})
+    Magikarp = Pokemon('Magikarp', 'Water', ['Tackle', 'Splash', 'Bounce', 'Hydro Pump'],{'ATTACK': 5, 'DEFENSE':2})
+    Rattata = Pokemon('Rattata\t', 'Normal', ['Tackle', 'Bite', 'Crunch', 'Sucker Punch'],{'ATTACK':1, 'DEFENSE':6})
+
+    Ninetales = Pokemon('Ninetales', 'Fire', ['Ember', 'Extrasensory', 'Fire Blast', 'Headbutt'],{'ATTACK':4, 'DEFENSE':10})
+    Gyarados = Pokemon('Gyarados', 'Water', ['Bite', 'Tackle', 'Whirlpool', 'Ice Fang'],{'ATTACK': 5, 'DEFENSE':9})
+    Tropius = Pokemon('Tropius\t', 'Grass', ['Gust', 'Leaf Storm', 'Razor Leaf', 'Magical Leaf'],{'ATTACK':3, 'DEFENSE':11})
 
 
     Charizard.fight(Blastoise) # Get them to fight
