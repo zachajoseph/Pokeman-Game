@@ -28,5 +28,9 @@ if __name__ == '__main__':
     Starmie = Pokemon('Starmie', 'Water', ['Bubblebeam', 'Water Gun', 'Headbutt', 'Surf'],{'ATTACK': 5, 'DEFENSE':5})
     Exeggutor = Pokemon('Exeggutor\t', 'Grass', ['Vine Wip', 'Razor Leaf', 'Bullet Seed', 'Leech Seed'],{'ATTACK':4, 'DEFENSE':6})
 
+     Kangaskhan = Pokemon('Kangaskhan', 'Normal', ['Pound', 'Bite', 'Stomp', 'Headbutt'],{'ATTACK':6, 'DEFENSE':7})
+    Snorlax = Pokemon('Snorlax', 'Normal', ['Covet', 'Last Resort', 'Lick', 'Tackle'],{'ATTACK': 8, 'DEFENSE':5})
+    Porygon = Pokemon('Porygon\t', 'Normal', ['Zap Cannon', 'Thunder Shock', 'Psybeam', 'Discharge'],{'ATTACK':4, 'DEFENSE':9})
+
 
     Charizard.fight(Blastoise) # Get them to fight
