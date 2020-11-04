@@ -8,7 +8,7 @@ During this week, My goals for this week were:
 
 I was able to complete my first goal as listed in the repl above utilizing the template and ideas shown in this video
   https://www.youtube.com/watch?v=Pbs6jQZrZA4
- and added 6 new pokemon to the list of potential encounters and randomized the pokemon you can fight. These changes can be seen in the repo above.
+ and added 6 new pokemon to the list of potential encounters. These changes can be seen in the repo above.
   
 Then I started researching different gui types that were compatible with repl.it and I found some examples that I may or may not use.
 The different libraries I am researching and evaluating are:
